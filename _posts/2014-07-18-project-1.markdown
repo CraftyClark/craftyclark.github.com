@@ -8,9 +8,9 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Snake Game
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-website: http://google.com
+description: Click here to view my snake game I made in my Programming Lanugage Paradigms course at KU!
+website: https://craftyclark.github.io/snake_dynamic_screen_size/
 
 ---

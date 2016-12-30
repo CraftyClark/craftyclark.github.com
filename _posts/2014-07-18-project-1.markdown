@@ -11,6 +11,6 @@ project-date: April 2014
 client: Snake Game
 category: Web Development
 description: Click here to view my snake game I made in my Programming Lanugage Paradigms course at KU!
-website: https://craftyclark.github.io/snake_dynamic_screen_size/
+website: https://craftyclark.github.io/snake/
 
 ---

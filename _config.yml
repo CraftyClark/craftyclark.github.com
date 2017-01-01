@@ -1,6 +1,6 @@
 url: https://craftyclark.github.io
 ##enforce_ssl: 
-baseurl: /portfolio/
+#baseurl: 
 
 #exclude: [Gemfile, Gemfile.lock]
 
@@ -79,3 +79,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: [html, head, body]
+  
+# filtering context
+future: true
+  

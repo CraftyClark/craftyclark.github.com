@@ -11,15 +11,15 @@
  - institution: University of Kansas
    title: 
    description: >
-                  <b>B.S. Computer Engineering </b><br>
-                  <i>University of Kansas School of Engineering</i> <br>
-                  Developed high-end applications using C++, Java, Python, JavaScript, HTML, CSS, etc. <br>
+                  <p><b>B.S. Computer Engineering </b><br>
+                  <i>University of Kansas School of Engineering</i> <br> </p>
+                  <p>Developed high-end applications using C++, Java, Python, JavaScript, HTML, CSS, etc. <br>
                   Gained experience as a developer, mathematician, and tutor which resulted in exceptional analytical, 
-                  problem-solving, communication, and interpersonal skills. <br>
-                  Learned to work independently, recognizing 
+                  problem-solving, communication, and interpersonal skills. <br> </p>
+                  <p>Learned to work independently, recognizing 
                   patterns/problems and developing/implementing solutions while also able to collaborate with a team, 
                   managing and delegating tasks both appropriately and efficiently.
-                  <br>
+                  <br> </p>
    begin: 2012
    end: 2016
    link: http://eecs.ku.edu/prospective_students/undergraduate/degree_requirements

@@ -1,27 +1,27 @@
  - institution: Pittsburg State University
    title: 
    description: >
-                  <b>B.S. Electronics Engineering Technology</b> <br>
-                  Introduced to computer programming for the first time. After realizing Pittstate didn't have any sufficient 
-                  curiculum relating to computer science, I left for the School of Engineering at the University of Kansas.       
+                  <b>Bachelor of Science in Electronics Engineering Technology</b> <br>
+                  Pittsburg State University <br>      
    begin: 2009
-   end: 2011
+   end: 2012
    link: http://catalog.pittstate.edu/contentm/blueprints/blueprint_display.php?bp_listing_id=154&blueprint_id=207&sid=1&menu_id=4853
    img: img/experience/1.jpg
    img_alt: Pittstate logo
  - institution: University of Kansas
    title: 
    description: >
-                  <b>B.S. Computer Engineering </b><br>
-                  Developed high-end applications using C++, Java, Python, MySQL, HTML, JavaScript, CSS, etc.
+                  <b>Bachelor of Science in Computer Engineering </b><br>
+                  University of Kansas School of Engineering <br>
+                  Developed high-end applications using C++, Java, Python, JavaScript, HTML, CSS, etc. <br>
                   Gained experience as a developer, mathematician, and tutor which resulted in exceptional analytical, 
-                  problem-solving, communication, and interpersonal skills. Learned to work independently, recognizing 
+                  problem-solving, communication, and interpersonal skills. <br>
+                  Learned to work independently, recognizing 
                   patterns/problems and developing/implementing solutions while also able to collaborate with a team, 
                   managing and delegating tasks both appropriately and efficiently.
                   <br>
-                  <b>ROCKCHALK!</b>
    begin: 2012
-   end: 2015
+   end: 2016
    link: http://eecs.ku.edu/prospective_students/undergraduate/degree_requirements
    img: img/experience/2.jpg
    img_alt: KU logo

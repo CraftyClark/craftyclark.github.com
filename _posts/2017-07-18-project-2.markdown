@@ -1,0 +1,15 @@
+---
+title: Business Webpage
+subtitle: Created using Bootstrap 3 framework
+layout: default
+modal-id: 2
+date: 2017-07-18
+img: portfolio_fyock.png
+thumbnail: portfolio_fyock_thumbnail.png
+alt: image-alt
+project-date: July 2017
+client: Fyock Home Design
+category: Web Development
+description: Click here to view the website I created for a friend. 
+website: https://fyockhomedesign.github.io/
+---

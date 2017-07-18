@@ -1,5 +1,5 @@
 ---
-title: Website 
+title: Business Webpage
 subtitle: Created using Bootstrap 3 framework
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: July 2017
 client: Fyock Home Design
 category: Web Development
-description: Click here to view the website I created for a friend. https://fyockhomedesign.github.io/
-
+description: Click here to view the website I created for a friend. 
+website: https://fyockhomedesign.github.io/
 ---

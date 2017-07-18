@@ -2,7 +2,7 @@
 title: Website 
 subtitle: Created using Bootstrap 3 framework
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-07-18
 img: portfolio_fyock.png
 thumbnail: portfolio_fyock_thumbnail.png
